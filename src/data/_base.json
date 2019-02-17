@@ -2,7 +2,7 @@
   "services": [{
     "image": "img/RelaxingMassage.jpg",
     "title": "Relaxation",
-    "content": ["One of the most popular treatment which offers deep relaxation ,soothes muscle pain and focus on revitalizing the skin. body and mind."]
+    "content": ["One of the most popular treatment which offers deep relaxation, soothes muscle pain and focus on revitalizing the skin. body and mind."]
   }, {
     "image": "img/RelaxingMassage.jpg",
     "title": "Couple Massage",
@@ -25,16 +25,16 @@
   }, {
     "image": "img/RelaxingMassage.jpg",
     "title": "Face & head massage",
-    "content": ["Relax and moisturize your face muscles with grape oil and essential oils.Balance your emotions with a head massage!"]
+    "content": ["Relax and moisturize your face muscles with grape oil and essential oils. Balance your emotions with a head massage!"]
   }, {
     "image": "img/RelaxingMassage.jpg",
     "title": "Ayurvedic Massage",
-    "content": ["One of the oldest massage,which comes from India. It's aim to.."]
+    "content": ["One of the oldest massage, which comes from India. It's aim to."]
   }, {
     "image": "img/RelaxingMassage.jpg",
     "title": "Ayurvedic Massage",
     "content": [
-      "One of the oldest massage,which comes from India. It's aim to..",
+      "One of the oldest massage,which comes from India. It's aim to:",
       "- detoxify and cleanse",
       "- boost the effectiveness of the immune system",
       "- keep healthy people in good health",
@@ -50,6 +50,6 @@
   }, {
     "image": "img/RelaxingMassage.jpg",
     "title": "Pedicure with Legs and Foot Massage",
-    "content": ["Pedicure including aromatic soak foot reshape nails cuticle details exfoliation and Nail polish. You could also combine it with a leg massage before your pedicure !"]
+    "content": ["Pedicure including aromatic soak foot reshape nails cuticle details exfoliation and Nail polish. You could also combine it with a leg massage before your pedicure!"]
   }]
 }
