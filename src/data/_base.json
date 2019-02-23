@@ -1,55 +1,71 @@
 {
   "services": [{
-    "image": "img/RelaxingMassage.jpg",
-    "title": "Relaxation",
-    "content": ["One of the most popular treatment which offers deep relaxation ,soothes muscle pain and focus on revitalizing the skin. body and mind."]
+    "title": "Relaxation Massage",
+    "price": "55€ / 60min",
+    "image": "/img/relaxation-massage.jpg",
+    "content": [
+      "One of the most popular treatment which offers deep relaxation, soothes muscle pain and focus on revitalizing the skin. body and mind."
+    ]
   }, {
-    "image": "img/RelaxingMassage.jpg",
-    "title": "Couple Massage",
-    "content": ["In couple massage two therapists come to your place and side by side you enjoy the session. Ideal for couples or friends who want to relax at the same time !"]
-  }, {
-    "image": "img/RelaxingMassage.jpg",
-    "title": "Silky Skin",
-    "content": ["Remove the dead skin cells from the body with homemade body scrub and essential oils. After you indulge in a relaxing massage! Prepare your skin for a deeper hydration and tan!"]
-  }, {
-    "image": "img/RelaxingMassage.jpg",
     "title": "Deep tissue / Trigger Points",
+    "price": "55€ / 60min",
+    "image": "/img/deep-tissue.jpg",
     "content": [
       "Those who have a Deep Tissue Massage feel relaxed and renewed after each session. I love showing my people how just a few treatments can make an enormous difference to their health and improve their position.",
       "Trigger Point Therapy is a form of Remedial Massage Therapy in which direct pressure is applied to specified points on tender muscle tissue to bring about reduction in muscle tension and pain relief."
     ]
   }, {
-    "image": "img/RelaxingMassage.jpg",
-    "title": "Sports Massage",
-    "content": ["Uses the application of massage tech- niques that follow sound anatomical and physiological consideration."]
-  }, {
-    "image": "img/RelaxingMassage.jpg",
-    "title": "Face & head massage",
-    "content": ["Relax and moisturize your face muscles with grape oil and essential oils.Balance your emotions with a head massage!"]
-  }, {
-    "image": "img/RelaxingMassage.jpg",
-    "title": "Ayurvedic Massage",
-    "content": ["One of the oldest massage,which comes from India. It's aim to.."]
-  }, {
-    "image": "img/RelaxingMassage.jpg",
-    "title": "Ayurvedic Massage",
+    "title": "Couple Massage",
+    "price": "110€ / 60min (per person)",
+    "image": "/img/couples-massage.jpg",
     "content": [
-      "One of the oldest massage,which comes from India. It's aim to..",
-      "- detoxify and cleanse",
-      "- boost the effectiveness of the immune system",
-      "- keep healthy people in good health",
-      "- help those with medical conditions to improve their overall well-being",
-      "- help with stress relief",
-      "- improve circulation",
-      "- Increase body awareness",
-      "- Increase vitality, rejuvenating, repairing",
-      "- promote healthy skin",
-      "- help with deep relaxation",
-      "Combination with two massage oils and essential oils."
+      "In couple massage two therapists come to your place and side by side you enjoy the session. Ideal for couples or friends who want to relax at the same time!"
     ]
   }, {
-    "image": "img/RelaxingMassage.jpg",
-    "title": "Pedicure with Legs and Foot Massage",
-    "content": ["Pedicure including aromatic soak foot reshape nails cuticle details exfoliation and Nail polish. You could also combine it with a leg massage before your pedicure !"]
+    "title": "Ayurvedic Massage",
+    "price": "65€ / 70min",
+    "image": "/img/ayurvedic-massage.jpg",
+    "content": [
+      "One of the oldest massage,which comes from India. It's aim to..",
+      "Combination with two massage oils and essential oils."
+    ],
+    "details": [
+      "detoxify and cleanse", "boost the effectiveness of the immune system", "keep healthy people in good health", "help those with medical conditions to improve their overall well-being", "help with stress relief", "improve circulation", "Increase body awareness", "Increase vitality, rejuvenating, repairing", "promote healthy skin", "help with deep relaxation"
+    ]
+  }, {
+    "title": "Silky Skin",
+    "price": "90€ / 90min",
+    "image": "/img/silky-skin.jpg",
+    "content": [
+      "Remove the dead skin cells from the body with homemade body scrub and essential oils. After you indulge in a relaxing massage! Prepare your skin for a deeper hydration and tan!"
+    ]
+  }, {
+    "title": "Face & head massage",
+    "price": "18€ / 20min",
+    "image": "/img/face-and-head.jpg",
+    "content": [
+      "Relax and moisturize your face muscles with grape oil and essential oils.Balance your emotions with a head massage!"
+    ]
+  }, {
+    "title": "Cellulite massage",
+    "price": "35€ / 30min",
+    "image": "/img/cellulite-massage.jpg",
+    "content": [
+      "Focuses on releasing and smoothing problem areas.This massage is very vigorous, but you should still come away feeling rejuvenated!"
+    ]
+  }, {
+    "title": "Sports Massage",
+    "price": "40€ / 40min",
+    "image": "/img/sports-massage.jpg",
+    "content": [
+      "Uses the application of massage tech- niques that follow sound anatomical and physiological consideration."
+    ]
+  }, {
+    "title": "Pedicure with Legs and Foot Massage / Pedicure",
+    "price": "50€ / 50min - 20€ /30min",
+    "image": "/img/pedicure.jpg",
+    "content": [
+      "Pedicure including aromatic soak foot reshape nails cuticle details exfoliation and Nail polish. You could also combine it with a leg massage before your pedicure !"
+    ]
   }]
 }
